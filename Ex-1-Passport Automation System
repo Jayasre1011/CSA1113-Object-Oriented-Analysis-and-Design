@@ -1,0 +1,25 @@
+# Experiment 1: Passport Automation System
+
+## Aim
+To model the Passport Automation System using Object Oriented Analysis and Design (OOAD) concepts by creating UML diagrams in StarUML.
+
+## Software Used
+- StarUML
+- UML 2.x
+
+## Procedure
+1. Opened StarUML and created a new UML project.
+2. Analyzed the Passport Automation System to identify actors, processes, and objects.
+3. Drew the Use Case Diagram to represent interactions between Applicant, Passport Officer, and Police Department.
+4. Created the Class Diagram to represent system classes and their relationships.
+5. Designed the Sequence Diagram to show the interaction flow between system components.
+6. Developed the Activity Diagram to illustrate the workflow of passport application processing.
+7. Drew the State Diagram to represent the life cycle of the passport application.
+8. Created the Communication Diagram to show object interactions using numbered messages.
+9. Designed the Component Diagram to represent the software components of the system.
+10. Drew the Deployment Diagram to show the physical deployment of the system.
+11. Created the Package Diagram to show the logical grouping of system modules.
+12. Verified all diagrams for correctness and saved the project.
+
+## Result
+The Passport Automation System was successfully modeled using nine UML diagrams in StarUML, demonstrating the functional, structural, behavioral, and deployment aspects of the system.
